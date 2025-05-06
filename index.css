@@ -1,0 +1,58 @@
+
+.main{
+    width: 40%;
+    box-shadow: 1px 1px 10px silver;
+    margin-top: 50px;
+    padding: 10px;
+    
+} 
+h2{
+    font-family: "Cairo", sans-serif;
+}
+input{
+    margin-bottom: 10px;
+    width: 60%;
+    padding: 5px;
+    font-family: "Cairo", sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+button{
+  border: none;
+  padding: 10px;
+  width:40%;
+  font-weight: bold;
+  font-size: 15px;
+  background-color: rgb(21, 158, 53);
+  cursor: pointer;
+  font-family: "Cairo", sans-serif;
+  margin-bottom: 15px;
+}
+#image{
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: blue;
+    font-family: "Cairo", sans-serif;
+    color: white;
+}
+label[for="name"]{
+    font-weight: bold;
+}
+label[for="prix"]{
+    font-weight: bold;
+}
+label[for="class"]{
+    font-weight: bold;
+}
+label[for="ID"]{
+    font-weight: bold; 
+}
+a{
+ text-decoration: none;
+ font-size: 20px;
+ color: tomato;
+ font-family: "Cairo", sans-serif;
+ font-weight: bold;
+}
